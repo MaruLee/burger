@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Rachael Tseng",
+  "author": "Marusol Lee",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
