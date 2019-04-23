@@ -1,0 +1,10 @@
+#img_burger {
+    display: block;
+    margin: auto;
+
+}
+body {
+    background-image: url(../img/burger_background.jpg);
+    text-align: center;
+}
+
